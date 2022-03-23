@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<Kodovi>
+  <CODE_LIMISER>
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:48" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:51" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:55" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:56" id="1-10" />
+  </CODE_LIMISER>
+  <CODE_MOTION>
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:48" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:51" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:55" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:56" id="1-10" />
+  </CODE_MOTION>
+</Kodovi>

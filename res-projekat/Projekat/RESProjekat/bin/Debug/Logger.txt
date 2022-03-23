@@ -1,0 +1,225 @@
+Nova promena:
+Vreme promene: 6/5/2019 7:44:23 PM
+Komponenta: Program
+Poruka: Izabrano WriteToDumpingBuffer
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:23 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:23 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:23 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:23 PM
+Komponenta: Writer
+Poruka: Upisivanje u dumping buffer sa kodom 4, vrednost koda 46
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:25 PM
+Komponenta: Writer
+Poruka: Upisivanje u dumping buffer sa kodom 1, vrednost koda 69
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:27 PM
+Komponenta: Writer
+Poruka: Upisivanje u dumping buffer sa kodom 0, vrednost koda 53
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:29 PM
+Komponenta: Historical
+Poruka: Fajl DataSet3.xml je kreiran
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:29 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:29 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:29 PM
+Komponenta: Program
+Poruka: Izabrano ManualWriteToHistory
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:29 PM
+Komponenta: Program
+Poruka: Zavrseno ManualWriteToHistory
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:29 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:29 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:29 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:44:29 PM
+Komponenta: Writer
+Poruka: Upisivanje u dumping buffer sa kodom 2, vrednost koda 7
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:47 PM
+Komponenta: Historical
+Poruka: Fajl DataSet2.xml je kreiran
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:47 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:47 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:47 PM
+Komponenta: Program
+Poruka: Izabrano ManualWriteToHistory
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:47 PM
+Komponenta: Program
+Poruka: Zavrseno ManualWriteToHistory
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:49 PM
+Komponenta: Program
+Poruka: Izabrano WriteToDumpingBuffer
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:49 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:49 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:49 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:49 PM
+Komponenta: Writer
+Poruka: Upisivanje u dumping buffer sa kodom 2, vrednost koda 91
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:51 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:51 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:51 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:51 PM
+Komponenta: Writer
+Poruka: Upisivanje u dumping buffer sa kodom 1, vrednost koda 75
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:22 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje u Historical komponentu je prekinuto| Greska u unetom kodu
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:22 PM
+Komponenta: Program
+Poruka: Izabrano ManualWriteToHistory
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:22 PM
+Komponenta: Program
+Poruka: Zavrseno ManualWriteToHistory
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:23 PM
+Komponenta: Program
+Poruka: Izabrano WriteToDumpingBuffer
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:23 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:23 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:23 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:23 PM
+Komponenta: Writer
+Poruka: Upisivanje u dumping buffer sa kodom 9, vrednost koda 36
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 11:10:25 PM
+Komponenta: Writer
+Poruka: Upisivanje u dumping buffer sa kodom 5, vrednost koda 60
+

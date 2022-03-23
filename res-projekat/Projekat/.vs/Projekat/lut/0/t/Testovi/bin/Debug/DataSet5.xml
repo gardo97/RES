@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<Kodovi>
+  <CODE_SINGLENODE>
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:13" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:16" id="-1" />
+  </CODE_SINGLENODE>
+  <CODE_SENSOR>
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:13" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:16" id="-1" />
+  </CODE_SENSOR>
+</Kodovi>

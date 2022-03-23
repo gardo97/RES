@@ -1,0 +1,5784 @@
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Fajl DataSet2.xml je kreiran
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Fajl DataSet3.xml je kreiran
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Fajl DataSet4.xml je kreiran
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Fajl DataSet5.xml je kreiran
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Fajl DataSet1.xml je kreiran
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje u Historical komponentu je prekinuto| Greska u unetom kodu
+
+Nova promena:
+Vreme promene: 6/5/2019 7:48:06 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje u Historical komponentu je prekinuto| Greska u unetom kodu
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:23 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:49:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje u Historical komponentu je prekinuto| Greska u unetom kodu
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje u Historical komponentu je prekinuto| Greska u unetom kodu
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:51:57 PM
+Komponenta: DuNova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje u Historical komponentu je prekinuto| Greska u unetom kodu
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje u Historical komponentu je prekinuto| Greska u unetom kodu
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:55:26 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje u Historical komponentu je prekinuto| Greska u unetom kodu
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje u Historical komponentu je prekinuto| Greska u unetom kodu
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:56:38 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:57:25 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/201Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 7:59:36 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/201Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:02:09 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/201Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:04:56 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:05:42 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/201Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:08:00 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/201Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:09:52 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/201Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:11:52 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/201Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:15:43 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/201Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 8:16:43 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/201Nova promena:
+Vreme promene: 6/5/2019 8:19:03 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:19:03 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:19:03 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 8:19:03 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:49 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:49 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:49 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:49 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 9:52:50 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/201Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:14 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:47 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:47 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:47 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:56:47 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 9:57:20 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 9:58:30 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 9:59:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova proNova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije validna
+
+Nova promena:
+Vreme promene: 6/5/2019 10:02:52 PM
+Komponenta: DumpingBuffer
+Poruka: Vrednost nije valiNova promena:
+Vreme promene: 6/5/2019 10:06:14 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:06:14 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:06:14 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:06:14 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:06:14 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:06:14 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:06:14 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:06:14 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:13 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekcijNova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:07:31 PM
+KomponentaNova promena:
+Vreme promene: 6/5/2019 10:08:39 PM
+Komponenta: Historical
+Poruka: Fajl dataSet37.xml je kreiran
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: DeltaCD nije validan
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: Historical
+Poruka: DeltaCD nije validan
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:12:59 PNova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:08 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekcijNova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:13:17 PM
+KomponentaNova promena:
+Vreme promene: 6/5/2019 10:14:41 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:14:41 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:14:41 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:14:41 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:14:41 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:14:41 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:14:41 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:14:41 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:14:41 PM
+Komponenta: Historical
+Poruka: DeltaCD nije validan
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(1) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:00 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:00 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:01 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(2) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:01 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:01 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:01 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(3) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:01 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:01 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:01 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(4) u kolekciji
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:01 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) dodat u kolekciju
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:01 PM
+Komponenta: DumpingBuffer
+Poruka: Dodata nova vrednost u CollectionDescription(5) u kolekcijNova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(9)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:15:14 PM
+KomponentaNova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: asfdas
+Poruka: fasdf
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: DeltaCD nije validan
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: asfdas
+Poruka: fasdf
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: Historical
+Poruka: DeltaCD nije validan
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(2) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(1)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(3) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(2)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(4) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(3)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(5) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(4)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Novi CollectionDescription(1) je dodat.
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(5)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(6)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(7)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednost dodata u CollectionDescription(8)
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Upisivanje u Historical komponentu je zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:31 PM
+Komponenta: DumpingBuffer
+Poruka: Nova vrednoNova promena:
+Vreme promene: 6/5/2019 10:19:47 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:47 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:47 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:19:47 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:28:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:28:59 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:28:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:28:59 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:28:59 PM
+Komponenta: asfdas
+Poruka: fasdf
+
+Nova promena:
+Vreme promene: 6/5/2019 10:28:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:28:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:28:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:28:59 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:28:59 PM
+Komponenta: Historical
+Poruka: DeltaCD nije validan
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:16 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:16 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:16 PM
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 6/5/2019 10:38:16 PM
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 06-Jun-19 18:18:15
+Komponenta: Historical
+Poruka: Manuelno upisivanje zavrseno
+
+Nova promena:
+Vreme promene: 06-Jun-19 18:18:15
+Komponenta: Writer
+Poruka: Manuelno upisivanje zavrseno
+

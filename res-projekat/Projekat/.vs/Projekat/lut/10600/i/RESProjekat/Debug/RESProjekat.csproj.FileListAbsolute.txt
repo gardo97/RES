@@ -1,0 +1,7 @@
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\b\RESProjekat\bin\Debug\RESProjekat.exe.config
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\b\RESProjekat\bin\Debug\RESProjekat.exe
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\b\RESProjekat\bin\Debug\RESProjekat.pdb
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\i\RESProjekat\Debug\RESProjekat.csprojResolveAssemblyReference.cache
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\i\RESProjekat\Debug\RESProjekat.csproj.CoreCompileInputs.cache
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\i\RESProjekat\Debug\RESProjekat.exe
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\i\RESProjekat\Debug\RESProjekat.pdb

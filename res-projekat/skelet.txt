@@ -1,0 +1,68 @@
+Kodovi
+	enum Kodovi
+Writer
+	+WriteToDumpingBuffer
+	+ManualWriteToHistory
+	+UpisUFajl(int, double)
+
+DumpingBuffer
+	+CollectionDescription
+		(prop)+ID
+		(prop)DataSer
+		(prop)List<DumpingProperty>
+	+DeltaCD
+		-id
+		-List<CollectionDescription>
+		-List<CollectionDescription>
+		-List<CollectionDescription>
+		(prop)List<CollectionDescription>
+  		(prop)List<CollectionDescription>
+		(prop)List<CollectionDescription>
+	+DumpingProperty
+		-kodovi
+		-dumpingValue
+		(prop)Kodovi
+		(prop)DumpingValue
+	+DumpingBuffer - komponenta
+		//-CDID
+		//-Dictionary<int, CollectionDescription> 
+		//-Dictionary<int, CollectionDescription> 
+		//-counters
+		//-Dictionary<int, CollectionDescription> 
+		//-DCD
+		//-instance		
+		//-padlock
+		//-receiveCounter
+		+WriteToHistory(int, double)
+		+Kolekcija(int, double)
+		+SlanjeUHistorical()
+		
+Historical
+	+HistoricalDescription
+		(prop)ID
+		(prop)List<HistoricalPropertz>
+	+HistoricalPropertz
+		-kodovi
+		-historicalValue
+		(prop)Kodovi
+		(prop)HistoricalValue1
+	+Historical - komponenta
+		//-List<HistoricalDescription>
+		//-padlock
+		//-instanca
+		//-xmlCreatore
+		+WriteToXml(DeltaCD)
+		+ManulWriting
+		+CreateXmlDocument(int, string)
+		+IsOutOfDeadband(DumpingProperty)
+		+AutomaticAdd(CollectionDescription)
+		+AutomaticUpdate(CollectionDescription)
+		+AutomaticDelete(CollectionDescription)
+		+CheckIfUpdatable(Kodovi, int)
+
+Logger
+	//-path
+	//-padlock
+	//-instance
+	//-StreamWriter 
+	+UpisLogger(string, string)

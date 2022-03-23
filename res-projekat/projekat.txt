@@ -1,0 +1,42 @@
+Dumping 
+
+pretvara podatke u strukturu tj dumping property koji prestavlja kolekciju
+salje svake 2 sekunde komponenti 
+moze i manuelni unos, preskace se dumping bafer
+ako je kod analog onda je kod 1
+cela kolekcija se salje u deltaCD
+ukoliko deltaSet nije u bazi podataka dodaje se u llistu add, ukoliko postoji ide u update itd
+ako imamo istu vrednost, dumpingValue se osveze
+ako prodje 10 upisa, delta se skida 
+
+historical
+
+u historikal se dodaje ono sto dodajemo, update, remove, ali u modelu koji je dat u historikal
+modelu
+historikal properti je isti kao i dumping properti
+
+writter
+
+unos koda i vrednosti, kodovi su dati, vrednosti u obliku 
+unose se vrednosti i prosledjuju baferu 
+
+reader
+
+na svakih nekoliko sekundi cita odredjene vrednosti iz dateSetova i prikazuju se ne ekranu
+
+za commit treba da pisemo naziv, broj taska, kratka poruka sta se uradilo u tasku
+
+klasa jednu jedinu odgovornost
+unit testovi za sve klase, ne test konzolnu aplikaciju
+metoda ne duza od 40/50 linija
+rad sa fajlovima, integracioni test-novi folder, i da se brise
+ni jedna globalna promenljiva, staticko polje 
+komponente poseban namespace, neki sablon
+opcioni:
+folder sa podacima, lokalni podaci, remote, repisitory klasa za dobavljanje el iz modela
+view
+controller, prezenter logika koja povezuje model i view
+pokrivenost koda veca ili jednaka 90%
+
+dijagram sekvence za komunikaciju writera i dumping bafera
+dijagram sekvenci za historical komponentu i komunikacije sa njom

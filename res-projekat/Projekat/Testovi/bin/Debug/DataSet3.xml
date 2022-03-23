@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<Kodovi>
+  <CODE_CUSTOM>
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:48" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:51" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:55" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:56" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:57" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:59" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:59" id="-1" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:59" id="-1" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="20:02" id="-1" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="20:02" id="-1" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="20:04" id="-1" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="20:05" id="-1" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="20:05" id="-1" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="20:06" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:08" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:08" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:09" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:10" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:10" id="-1" />
+    <entry method="manuelno" vrednost="123" Vreme="20:11" id="-1" />
+    <entry method="manuelno" vrednost="123" Vreme="20:12" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:15" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:16" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="20:19" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="21:52" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="21:56" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="21:56" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="21:57" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="21:58" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="22:02" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="22:06" id="-1" />
+    <Unos metoda="manuelno" vrednost="432" Vreme="22:06" id="-1" />
+    <Unos id="1232" metoda="automatsko" kod="CODE_CUSTOM" vrednost="311" vreme="22:06" />
+    <Unos metoda="manuelno" vrednost="432" Vreme="22:07" id="-1" />
+    <Unos metoda="manuelno" vrednost="432" Vreme="22:10" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="22:12" id="-1" />
+    <Unos metoda="manuelno" vrednost="432" Vreme="22:12" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="22:14" id="-1" />
+    <Unos metoda="manuelno" vrednost="432" Vreme="22:14" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="22:19" id="-1" />
+    <Unos metoda="manuelno" vrednost="432" Vreme="22:19" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="22:19" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="22:28" id="-1" />
+    <Unos metoda="manuelno" vrednost="432" Vreme="22:28" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="22:38" id="-1" />
+    <Unos metoda="manuelno" vrednost="123" Vreme="18:18" id="-1" />
+  </CODE_CUSTOM>
+  <CODE_SOURCE>
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:48" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:51" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:55" id="1-10" />
+    <Unos metoda="manuelnoUpisivanje" vrednost="123" Vreme="19:56" id="1-10" />
+    <Unos id="1232" metoda="automatsko" kod="CODE_SOURCE" Vrednost="111" Vreme="22:06" />
+  </CODE_SOURCE>
+</Kodovi>

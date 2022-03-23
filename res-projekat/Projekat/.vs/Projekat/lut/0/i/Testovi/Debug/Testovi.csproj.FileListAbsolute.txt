@@ -1,0 +1,10 @@
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\b\Testovi\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\b\Testovi\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\b\Testovi\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\b\Testovi\bin\Debug\Testovi.dll.config
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\b\Testovi\bin\Debug\Testovi.dll
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\b\Testovi\bin\Debug\Testovi.pdb
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\i\Testovi\Debug\Testovi.csprojResolveAssemblyReference.cache
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\i\Testovi\Debug\Testovi.csproj.CoreCompileInputs.cache
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\i\Testovi\Debug\Testovi.dll
+C:\Users\lukap\Desktop\res-projekat\Projekat\.vs\Projekat\lut\0\i\Testovi\Debug\Testovi.pdb
